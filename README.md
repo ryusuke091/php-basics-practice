@@ -6,7 +6,7 @@ COACHTECH 教材 Tutorial 7-1-6「PHPの基礎 ハンズオン演習」で作成
 
 ## 使用技術
 
-- PHP 8.x
+- PHP 8.2
 - Docker
 
 ## 学んだこと
@@ -17,4 +17,4 @@ COACHTECH 教材 Tutorial 7-1-6「PHPの基礎 ハンズオン演習」で作成
 ## 動作確認
 
 コンテナを起動して、
-http://localhost:8000/7-1-6_hands-on/practice/price_calculator.php にアクセス
+http://localhost:8000/7-1-6_hands-on/practice/price_calculator.php にアクセス。
